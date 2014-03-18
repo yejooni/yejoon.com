@@ -1,6 +1,7 @@
+touch README.md
 git init
 
-git add . 
+git add README.md
 git commit -m "xx"
 git remote add origin https://github.com/yejooni/yejoon.com.git
 git push -u origin master 
